@@ -1,0 +1,13 @@
+# mdtree - Markdown compatible Parser and Renderer
+
+**mdtree** provides [markdown]-related utilities.
+
+
+## Not yet supported
+
+- Escaped characters
+- Autolinks
+- Embedded html
+- Underlyingish headers
+
+[markdown]: https://daringfireball.net/projects/markdown/
